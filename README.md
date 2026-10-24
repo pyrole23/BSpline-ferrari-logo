@@ -48,15 +48,6 @@ Run the first cell. It draws the horse, saves `b_spline_curve.jpg` in the workin
 
 To see the sharp-corner demo (an L-shaped curve with a repeated interior knot), set `RUN_SHARP_DEMO = True` near the top of the student-input section and run the cell again.
 
-### Build the report
-
-```bash
-pdflatex bspline_horse_report.tex
-pdflatex bspline_horse_report.tex   # run twice to resolve references
-```
-
-Keep `b_spline_curve.jpg` in the same folder so the figure appears in the PDF.
-
 ## How it works
 
 A B-spline curve of order *k* with control points *P₀ … Pₙ₋₁* is
