@@ -91,14 +91,10 @@ Control points are in the `control_points` list in the `else:` branch of the not
 2. Repeat a point three times to make it a sharp corner, or enter it once to keep it rounded.
 3. Use the grey control polygon in the plot to see which point is pulling the curve where.
 
+## Report
+
+
+
 ## AI assistance
 
-This project was developed with help from Claude (Anthropic) for the horse design and for drafting the report. The prompts used are listed in the report.
-
-## Author
-
-Chris Varghese Mathew, Roll No. B240029ME, ME-02
-
-## License
-
-Add a license of your choice here (for example, MIT) before publishing.
+AI was used in the developed of this README and in the basic outline of the project report.
