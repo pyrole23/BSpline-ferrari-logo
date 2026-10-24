@@ -77,7 +77,7 @@ The code in the notebook:
 
 A cubic B-spline normally rounds off every bend. For a uniform cubic B-spline the curve value at a knot is `(Pⱼ₋₁ + 4Pⱼ + Pⱼ₊₁) / 6`. If the same point is entered three times in a row, the curve passes exactly through it with zero tangent, which produces a sharp geometric corner. The horse uses this for hoof edges, ear tips, mane tufts, the elbow, the crotch and the tail tips.
 
-### Numbers for the final horse
+### Parameters of the final figure
 
 | Item | Value |
 |------|-------|
