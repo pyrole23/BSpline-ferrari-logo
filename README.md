@@ -6,6 +6,8 @@ A closed outline of the Ferrari prancing horse (facing left), drawn with a **cub
   <img src="b_spline_curve.jpg" alt="Cubic B-spline outline of the prancing horse" width="520">
 </p>
 
+[Click here to view the project report](https://drive.google.com/file/d/1Hk0H_tNNiuJuVNIuh8T1gdkTe-rWcW7H/view?usp=sharing)
+
 ## Features
 
 - Cox–de Boor basis function and B-spline curve evaluation in plain Python/NumPy
@@ -90,8 +92,6 @@ Control points are in the `control_points` list in the `else:` branch of the not
 1. Move a point and re-run the cell. Because of local support, a point only affects four knot spans.
 2. Repeat a point three times to make it a sharp corner, or enter it once to keep it rounded.
 3. Use the grey control polygon in the plot to see which point is pulling the curve where.
-
-[Click here to view the project report](https://drive.google.com/file/d/1Hk0H_tNNiuJuVNIuh8T1gdkTe-rWcW7H/view?usp=sharing)
 
 ## AI assistance
 
