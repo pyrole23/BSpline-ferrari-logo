@@ -16,7 +16,7 @@ A closed outline of the Ferrari prancing horse (facing left), drawn with a **cub
 - Plot of the control polygon, the curve and the start/end point, saved as `b_spline_curve.jpg`
 - Printout of the control points and knot vector, ready to copy into a report
 
-## Repository contents
+## Contents
 
 | File | Description |
 |------|-------------|
