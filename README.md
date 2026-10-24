@@ -1,6 +1,6 @@
 # Cubic B-Spline Outline of the Ferrari Logo
 
-A closed outline of the Ferrari prancing horse (facing left), drawn with a **cubic B-spline (order k = 4)** whose control points were designed by hand. The B-spline evaluator is written from scratch in NumPy using the Cox–de Boor recursion, so no spline library is used.
+A closed outline of the Ferrari logo (the prancing horse), drawn with a **cubic B-spline (order k = 4)** whose control points were designed by hand. The B-spline evaluator is written from scratch in NumPy using the Cox–de Boor recursion, so no spline library is used.
 
 <p align="center">
   <img src="b_spline_curve.jpg" alt="Cubic B-spline outline of the prancing horse" width="520">
