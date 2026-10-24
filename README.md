@@ -6,8 +6,6 @@ A closed outline of the Ferrari prancing horse (facing left), drawn with a **cub
   <img src="b_spline_curve.jpg" alt="Cubic B-spline outline of the prancing horse" width="520">
 </p>
 
-> **Note:** The silhouette is an original hand-built drawing inspired by the prancing horse. It is not a trace of the official Ferrari logo, and Ferrari is a registered trademark of its owner. This project is for educational purposes only.
-
 ## Features
 
 - Cox–de Boor basis function and B-spline curve evaluation in plain Python/NumPy
