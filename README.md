@@ -7,6 +7,7 @@ A closed outline of the Ferrari logo (the prancing horse), drawn with a **cubic 
 </p>
 
 This was done as a course project for ME2339E - Computer Graphics and Product Modelling (Elective)
+
 [Click here to view the project report](https://drive.google.com/file/d/1Hk0H_tNNiuJuVNIuh8T1gdkTe-rWcW7H/view?usp=sharing)
 
 ## Features
