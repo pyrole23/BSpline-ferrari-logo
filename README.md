@@ -40,7 +40,7 @@ pip install numpy matplotlib jupyter
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+cd BSpline-ferrari-logo
 jupyter notebook ferrari_logo.ipynb
 ```
 
