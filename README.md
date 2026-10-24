@@ -6,6 +6,7 @@ A closed outline of the Ferrari prancing horse (facing left), drawn with a **cub
   <img src="b_spline_curve.jpg" alt="Cubic B-spline outline of the prancing horse" width="520">
 </p>
 
+This was done as a course project for ME2339E - Computer Graphics and Product Modelling (Elective)
 [Click here to view the project report](https://drive.google.com/file/d/1Hk0H_tNNiuJuVNIuh8T1gdkTe-rWcW7H/view?usp=sharing)
 
 ## Features
