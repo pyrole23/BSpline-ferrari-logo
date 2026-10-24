@@ -24,7 +24,6 @@ A closed outline of the Ferrari prancing horse (facing left), drawn with a **cub
 |------|-------------|
 | `ferrari_logo.ipynb` | Jupyter notebook with the B-spline code, the horse control points and the plot |
 | `b_spline_curve.jpg` | Output image saved by the notebook |
-| `bspline_horse_report.tex` | LaTeX report describing the method, design process and results |
 
 ## Getting started
 
