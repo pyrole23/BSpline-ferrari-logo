@@ -97,4 +97,4 @@ Control points are in the `control_points` list in the `else:` branch of the not
 
 ## AI assistance
 
-AI was used in the developed of this README and in the basic outline of the project report.
+AI was used in the development of this README and the project report.
