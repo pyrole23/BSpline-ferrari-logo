@@ -8,8 +8,6 @@ A closed outline of the Ferrari logo (the prancing horse), drawn with a **cubic 
 
 This was done as a course project for ME2339E - Computer Graphics and Product Modelling (Elective)
 
-[Click here to view the project report](https://drive.google.com/file/d/1aU36eX0uLiwustxJGO1ha1tJFxvUjm9y/view?usp=sharing)
-
 ## Features
 
 - Cox–de Boor basis function and B-spline curve evaluation in plain Python/NumPy
